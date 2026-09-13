@@ -1,0 +1,10 @@
+{
+  "name": "TRYatHOME",
+  "description": "TRYatHOME is a premium, offline-first Indian ethnic wear and designer garment shopping app featuring real-time doorstep trials with open vs closed trial tracking, interactive timer countdowns, and specialized Admin, Shopkeeper, and Delivery Rider portals.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
